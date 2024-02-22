@@ -1,4 +1,4 @@
-package com.example.springcoredemo;
+package com.luv2code.springcoredemo;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
